@@ -34,3 +34,6 @@ Informasi terkait lowongan kerja yang sesuai kemampuan susah untuk dicari, sehin
 Sebuah aplikasi yang dapat merekomendasikan kerja berdasarkan kemampuan pengguna, lowongan yang tersedia, dan kecocokan antara keduanya.
 
 ### Analisis Kompetitor:
+![Proyek Senior - Analisis Kompetitor 1](https://user-images.githubusercontent.com/64583473/222890094-5a515aaf-f872-49b9-a11d-fb73ec174bef.jpg)
+![Proyek Senior - Analisis Kompetitor 2](https://user-images.githubusercontent.com/64583473/222890090-d2f4a0cd-64df-4907-acce-889b3f67a6e8.jpg)
+![Proyek Senior - Analisis Kompetitor 3](https://user-images.githubusercontent.com/64583473/222890097-088bc402-2466-4a7b-9474-1d9e3cb28711.jpg)
