@@ -72,39 +72,39 @@ Projek yang masih tergolong sederhana sehingga lebih efisien jika menggunakan wa
 
 
 ### Perancangan Tahap 1-3 SDLC
-1. Tujuan dari Produk:
+#### Tujuan dari Produk:
    
-   Membantu pengguna untuk direkomendasikan kerja berdasarkan kemampuan pengguna, lowongan yang tersedia, dan kecocokan antara keduanya.
+  Membantu pengguna untuk direkomendasikan kerja berdasarkan kemampuan pengguna, lowongan yang tersedia, dan kecocokan antara keduanya.
 
-2. Pengguna Potensial dari Produk dan Kebutuhan Para Pengguna Tersebut:
+#### Pengguna Potensial dari Produk dan Kebutuhan Para Pengguna Tersebut:
    
-   - Pencari kerja
-   - Penyedia kerja (UMKM atau perusahaan)
+  - Pencari kerja
+  - Penyedia kerja (UMKM atau perusahaan)
 
-3. Use Case Diagram:
+#### Use Case Diagram:
 
 ![Senior Project-Use Case](https://user-images.githubusercontent.com/64583473/222969159-58b0436e-6954-440c-a206-279ab9347622.png)
 
-4. Functional Requirements untuk Use Case yang Telah Dirancang:
+#### Functional Requirements untuk Use Case yang Telah Dirancang:
   
 
-   |FR |Deskripsi|
-   |---|---      |
-   |FR 1|User dapat login sesuai role-nya (admin, pencari kerja, atau penyedia kerja)|
-   |FR 2|Pencari dapat mencari pekerjaan sesuai kemampuannya|
-   |FR 3|Sistem dapat memberikan rekomendasi yang sesuai kemampuan pencari kerja|
-   |FR 4|Sistem dapat mengirimkan permintaan konsultasi ketenagakerjaan|
-   |FR 5|Penyedia kerja dapat melakukan input lowongan yang tersedia|
-   |FR 6|Admin dapat merubah/menghapus data user|
-   |FR 7|Penyedia kerja dapat merubah/menghapus informasi lowongan atau data pribadi|
-   |FR 8|Pencari kerja dapat meng-upload CV|
-   |FR 9|Penyedia kerja dapat melihat dokumen aplikan|
+  |FR |Deskripsi|
+  |---|---      |
+  |FR 1|User dapat login sesuai role-nya (admin, pencari kerja, atau penyedia kerja)|
+  |FR 2|Pencari dapat mencari pekerjaan sesuai kemampuannya|
+  |FR 3|Sistem dapat memberikan rekomendasi yang sesuai kemampuan pencari kerja|
+  |FR 4|Sistem dapat mengirimkan permintaan konsultasi ketenagakerjaan|
+  |FR 5|Penyedia kerja dapat melakukan input lowongan yang tersedia|
+  |FR 6|Admin dapat merubah/menghapus data user|
+  |FR 7|Penyedia kerja dapat merubah/menghapus informasi lowongan atau data pribadi|
+  |FR 8|Pencari kerja dapat meng-upload CV|
+  |FR 9|Penyedia kerja dapat melihat dokumen aplikan|
 
-5. Entity Relationship Diagram:
+#### Entity Relationship Diagram:
 
 ![Senior Project-ERD](https://user-images.githubusercontent.com/64583473/222969162-2d86958c-cc00-40a3-9300-44feab706cb2.png)
 
-6. Low-Fidelity Wireframe:
+#### Low-Fidelity Wireframe:
 
 ![Login-Sign In](https://user-images.githubusercontent.com/64583473/222969175-57912680-2772-4b34-87b0-31e5b0549cc1.png)
 
@@ -130,6 +130,6 @@ Projek yang masih tergolong sederhana sehingga lebih efisien jika menggunakan wa
 
 ![Pengeditan Lowongan](https://user-images.githubusercontent.com/64583473/222969187-33baa509-1fcc-41ea-894a-a7b22ee8d275.png)
 
-7. Gantt-Chart Pengerjaan Proyek dalam Kurun Waktu 1 Semester:
+#### Gantt-Chart Pengerjaan Proyek dalam Kurun Waktu 1 Semester:
    
 ![Proyek Senior - Gantt Chart](https://user-images.githubusercontent.com/64583473/222969158-44e38fa7-3638-483c-a392-4b0738720e9f.jpg)
