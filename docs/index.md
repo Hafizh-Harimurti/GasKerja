@@ -42,6 +42,18 @@ Sebuah aplikasi yang dapat merekomendasikan kerja berdasarkan kemampuan pengguna
 
 ---
 
+## Pengerjaan Lab 2.3
+
+### Screenshot File untuk Konfigurasi Page
+
+  
+
+### Screenshot Tampilan Akhir Page
+
+
+
+---
+
 ## Pengerjaan Lab 2.4
 
 ### Metodologi SDLC
