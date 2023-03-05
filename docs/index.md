@@ -76,8 +76,10 @@ Projek yang masih tergolong sederhana sehingga lebih efisien jika menggunakan wa
    |FR 3|Sistem dapat memberikan rekomendasi yang sesuai kemampuan pencari kerja|
    |FR 4|Sistem dapat mengirimkan permintaan konsultasi ketenagakerjaan|
    |FR 5|Penyedia kerja dapat melakukan input lowongan yang tersedia|
-   |FR 6|Admin dapat merubah/menghapus informasi lowongan dan data user|
-   |FR 7|User dapat merubah/menghapus informasi lowongan atau data pribadi|
+   |FR 6|Admin dapat merubah/menghapus data user|
+   |FR 7|Penyedia kerja dapat merubah/menghapus informasi lowongan atau data pribadi|
+   |FR 8|Pencari kerja dapat meng-upload CV|
+   |FR 9|Penyedia kerja dapat melihat dokumen aplikan|
 
 5. Entity Relationship Diagram:
   
@@ -88,4 +90,3 @@ Projek yang masih tergolong sederhana sehingga lebih efisien jika menggunakan wa
 7. Gantt-Chart Pengerjaan Proyek dalam Kurun Waktu 1 Semester:
    
 
-   
